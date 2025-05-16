@@ -1,8 +1,4 @@
 # Cardiovascular-Disease
-<<<<<<< HEAD
-
-=======
->>>>>>> 490cb1b414eec24b71e75162a8baf694dbd5304f
 This illustration of how different processes such as Exploratory Data Analysis, Feature Engineering and Cross Validation can be used to pick models that better fit the data. It uses a dataset filled with patients medical history which is used to try and predict whether a patient will test positive for Cardiovascular Disease or not.
 
 validator.py
@@ -16,7 +12,3 @@ This file contains the code for the matplotlib charts and some Feature Engineeri
 
 mpl_style_sheet.py
 Contains the style sheet for the eda.py
-<<<<<<< HEAD
-
-=======
->>>>>>> 490cb1b414eec24b71e75162a8baf694dbd5304f
